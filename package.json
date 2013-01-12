@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"mocha": "*",
+		"chai": "*",
+		"webdriverjs": "*"
+	},
+	"name": "testing-demo",
+	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha test.js -t 10000"
+	},
+	"version": "1.0"
+}
