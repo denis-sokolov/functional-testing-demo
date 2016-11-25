@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"mocha": "*",
+		"mocha": ">=3.2.0",
 		"chai": "*",
 		"webdriverjs": "*"
 	},
