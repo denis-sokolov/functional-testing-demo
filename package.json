@@ -1,7 +1,7 @@
 {
 	"dependencies": {
 		"mocha": "*",
-		"chai": "*",
+		"chai": ">=4.0.2",
 		"webdriverjs": "*"
 	},
 	"name": "testing-demo",
